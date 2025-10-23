@@ -1,1 +1,6 @@
-dm
+git init
+git add .
+git commit -m "Initial commit - Discord Welcome DM Bot"
+git branch -M main
+git remote add origin https://github.com/DivineHosting/Dm-bot.git
+git push -u origin main
