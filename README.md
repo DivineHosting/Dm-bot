@@ -10,8 +10,7 @@ A safe, full-featured Discord bot that:
 2. Add `.env` with:
 BOT_TOKEN=your_token
 MONGO_URI=your_mongo_uri
-3. 3. Run:
-      pip install -r requirements.txt
+3. pip install -r requirements.txt
       python bot.py
 ### 🚀 Commands
 | Command | Description |
